@@ -1,3 +1,3 @@
-#Author - Suresh Dhakal
+#Author - Suresh Dhakal & Warid Petprasit
 
-It's my code, don't claim for yourself
+We work as a team, it should fine now.
