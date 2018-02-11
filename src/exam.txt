@@ -1,3 +1,5 @@
 initialize test
 
-for node a2
+for node a2 u1
+
+node a3 by u1
