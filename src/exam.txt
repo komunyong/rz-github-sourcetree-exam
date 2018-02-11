@@ -3,3 +3,5 @@ initialize test
 for node a2 u1
 
 node a3 by u1: by team1, 2
+
+team 1
