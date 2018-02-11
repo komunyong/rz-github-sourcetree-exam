@@ -1,1 +1,3 @@
 initialize test
+
+for node a2
